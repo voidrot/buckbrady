@@ -2,7 +2,7 @@
     <img src='https://raw.githubusercontent.com/buckbrady/buckbrady/main/assets/header.svg' />
 </p>
 
-<center style='font-family:inter; font-size:2em'>Cloud Platforms</center>
+<p style='font-family:inter; font-size:2em' align='center'>Cloud Platforms</p>
 
 <p align="center">
     <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" style="vertical-align:top; margin:4px">
@@ -23,7 +23,8 @@
 </p>
 </center>
 
-<center style='font-family:inter; font-size:2em'>Frameworks</center>
+
+<p style='font-family:inter; font-size:2em' align='center'>Frameworks</p>
 
 <center>
     <p align="center" style="max-width: 75%;">
@@ -34,7 +35,8 @@
 </p>
 </center>
 
-<center style='font-family:inter; font-size:2em'>Other</center>
+<p style='font-family:inter; font-size:2em' align='center'>Other</p>
+
 <center>
     <p align="center" style="max-width: 75%;">
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" style="vertical-align:top; margin:4px">
