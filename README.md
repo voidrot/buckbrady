@@ -1,5 +1,6 @@
-### Hi there 👋
-
+<p align="center" width="100%">
+    <img src='https://github.com/buckbrady/buckbrady/assets/header.svg' />
+</p>
 ---
 
 ![Metrics](/github-metrics.svg)
