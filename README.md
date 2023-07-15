@@ -2,7 +2,7 @@
     <img src='https://raw.githubusercontent.com/buckbrady/buckbrady/main/assets/header.svg' />
 </p>
 
-<p style='font-family:inter; font-size:2em' align='center'>Cloud Platforms</p>
+<p style='font-family:inter; font-size:32px' align='center'>Cloud Platforms</p>
 
 <p align="center">
     <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" style="vertical-align:top; margin:4px">
@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" style="vertical-align:top; margin:4px">
 </p>
 
-<p style='font-family:inter; font-size:2em' align='center'>Languages</p>
+<p style='font-family:inter; font-size:32px' align='center'>Languages</p>
 
 <center>
     <p align="center" style="max-width: 75%;">
@@ -24,7 +24,7 @@
 </center>
 
 
-<p style='font-family:inter; font-size:2em' align='center'>Frameworks</p>
+<p style='font-family:inter; font-size:32px' align='center'>Frameworks</p>
 
 <center>
     <p align="center" style="max-width: 75%;">
@@ -35,7 +35,7 @@
 </p>
 </center>
 
-<p style='font-family:inter; font-size:2em' align='center'>Other</p>
+<p style='font-family:inter; font-size:32px' align='center'>Other</p>
 
 <center>
     <p align="center" style="max-width: 75%;">
