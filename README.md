@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" style="vertical-align:top; margin:4px">
 </p>
 
-<center><p style='font-family:inter; font-size:2em'>Languages</p></center>
+<p style='font-family:inter; font-size:2em' align='center'>Languages</p>
 
 <center>
     <p align="center" style="max-width: 75%;">
