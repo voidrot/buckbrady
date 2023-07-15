@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-    <img src='https://github.com/buckbrady/buckbrady/assets/header.svg' />
+    <img src='https://raw.githubusercontent.com/buckbrady/buckbrady/main/assets/header.svg' />
 </p>
 ---
 
