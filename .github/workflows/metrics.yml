@@ -15,7 +15,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.REPO_TOKEN }}
-          user: buckbrady
+          user: voidrot
           template: classic
           base: header, activity, community, repositories, metadata
           base_hireable: yes
